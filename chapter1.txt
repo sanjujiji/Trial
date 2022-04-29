@@ -1,1 +1,1 @@
-This is my first chapter of the book
+This is my first chapter of the book. Changes are being made to this script as part of the enhancement to be completed in May 22.
